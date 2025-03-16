@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Custom global styles */
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+@media (min-width: 768px) {
+    .your-class {
+      background-image: url('./high-res-image.jpg');
+    }
+  }
